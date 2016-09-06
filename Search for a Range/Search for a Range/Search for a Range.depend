@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1472552838 source:e:\leetcode\search for a range\search for a range\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
+1472640892 source:e:\leetcode\search for a range\search for a range\searchforarange.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

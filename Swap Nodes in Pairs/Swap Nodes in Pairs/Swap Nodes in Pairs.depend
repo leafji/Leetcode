@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1473061712 source:e:\leetcode\swap nodes in pairs\swap nodes in pairs\src\listmanager.cpp
+	"ListManager.h"
+
+1473061771 e:\leetcode\swap nodes in pairs\swap nodes in pairs\include\listmanager.h
+	<iostream>
+
+1473068091 source:e:\leetcode\swap nodes in pairs\swap nodes in pairs\swapnodesinpairs.cpp
+	<iostream>
+	<vector>
+	"ListManager.h"
+

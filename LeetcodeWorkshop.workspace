@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="SortSummary/SortSummary.cbp" />
+		<Project filename="3Sum/3Sum.cbp" />
+		<Project filename="Container With Most Water/Container With Most Water/Container With Most Water.cbp" />
+		<Project filename="ContainsDuplicateII/ContainsDuplicateII.cbp" />
+		<Project filename="RemoveDuplicatesfromSortedArray/RemoveDuplicatesfromSortedArray.cbp" />
+		<Project filename="Rotate Array/Rotate Array.cbp" />
+		<Project filename="Test1/Test1.cbp" />
+		<Project filename="Next Permutation/Next Permutation/Next Permutation.cbp" />
+		<Project filename="Search for a Range/Search for a Range/Search for a Range.cbp" />
+		<Project filename="Remove Nth Node From End of List/Remove Nth Node From End of List/Remove Nth Node From End of List.cbp" />
+		<Project filename="AddTwoNumbers/Add Two Numbers.cbp" />
+		<Project filename="Swap Nodes in Pairs/Swap Nodes in Pairs/Swap Nodes in Pairs.cbp" />
+		<Project filename="MergerTwoList/MergerTwoList.cbp" />
+		<Project filename="Remove Duplicates from Sorted List/Remove Duplicates from Sorted List.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

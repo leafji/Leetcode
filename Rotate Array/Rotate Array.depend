@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1472020885 source:e:\leetcode\rotate array\main.cpp
+	<iostream>
+	<vector>
+	<string.h>
+
